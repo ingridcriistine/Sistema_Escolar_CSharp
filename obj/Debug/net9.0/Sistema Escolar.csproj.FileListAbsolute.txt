@@ -1,0 +1,5 @@
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\obj\Debug\net9.0\Sistema Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\obj\Debug\net9.0\Sistema Escolar.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\obj\Debug\net9.0\Sistema Escolar.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\obj\Debug\net9.0\Sistema Escolar.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\obj\Debug\net9.0\Sistema Escolar.sourcelink.json

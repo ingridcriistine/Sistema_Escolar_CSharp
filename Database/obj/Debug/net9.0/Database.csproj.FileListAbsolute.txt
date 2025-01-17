@@ -1,0 +1,12 @@
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\bin\Debug\net9.0\Database.deps.json
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\bin\Debug\net9.0\Database.dll
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\bin\Debug\net9.0\Database.pdb
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\obj\Debug\net9.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\obj\Debug\net9.0\Database.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\obj\Debug\net9.0\Database.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\obj\Debug\net9.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\obj\Debug\net9.0\Database.sourcelink.json
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\obj\Debug\net9.0\Database.dll
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\obj\Debug\net9.0\refint\Database.dll
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\obj\Debug\net9.0\Database.pdb
+C:\Users\disrct\Desktop\Ingrid\CSharp-Bosch\Sistema Escolar\Database\obj\Debug\net9.0\ref\Database.dll
